@@ -10,5 +10,5 @@ A 100% free hypixel skyblock auction house flipper, because all skyblock mods sh
       A. You are not usingforge 1.8.9
       B. Your device is not currently supported. (Support for all devices will come in the future!)
 
-## Link to forge:
+## Link to forge 1.8.9:
 [Forge 1.8.9](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
